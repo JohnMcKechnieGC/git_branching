@@ -1,2 +1,2 @@
 # Feature
-This file explains the feature.
+This file explains the feature and the second feature.
